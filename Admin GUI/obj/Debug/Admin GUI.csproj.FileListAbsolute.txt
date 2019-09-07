@@ -1,0 +1,31 @@
+C:\Users\irfan\source\repos\Admin GUI\bin\Debug\Admin GUI.exe.config
+C:\Users\irfan\source\repos\Admin GUI\bin\Debug\Admin GUI.exe
+C:\Users\irfan\source\repos\Admin GUI\bin\Debug\Admin GUI.pdb
+C:\Users\irfan\source\repos\Admin GUI\obj\Debug\Admin GUI.csprojAssemblyReference.cache
+C:\Users\irfan\source\repos\Admin GUI\obj\Debug\Admin_GUI.Form1.resources
+C:\Users\irfan\source\repos\Admin GUI\obj\Debug\Admin_GUI.Form2.resources
+C:\Users\irfan\source\repos\Admin GUI\obj\Debug\Admin_GUI.Properties.Resources.resources
+C:\Users\irfan\source\repos\Admin GUI\obj\Debug\Admin GUI.csproj.GenerateResource.cache
+C:\Users\irfan\source\repos\Admin GUI\obj\Debug\Admin GUI.csproj.CoreCompileInputs.cache
+C:\Users\irfan\source\repos\Admin GUI\obj\Debug\Admin GUI.exe
+C:\Users\irfan\source\repos\Admin GUI\obj\Debug\Admin GUI.pdb
+C:\Users\irfan\source\repos\Admin GUI\bin\Debug\FireSharp.dll
+C:\Users\irfan\source\repos\Admin GUI\bin\Debug\FireSharp.Serialization.JsonNet.dll
+C:\Users\irfan\source\repos\Admin GUI\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\irfan\source\repos\Admin GUI\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\irfan\source\repos\Admin GUI\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\irfan\source\repos\Admin GUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\irfan\source\repos\Admin GUI\bin\Debug\RestSharp.dll
+C:\Users\irfan\source\repos\Admin GUI\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\irfan\source\repos\Admin GUI\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\irfan\source\repos\Admin GUI\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\irfan\source\repos\Admin GUI\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\irfan\source\repos\Admin GUI\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\irfan\source\repos\Admin GUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\irfan\source\repos\Admin GUI\bin\Debug\RestSharp.xml
+C:\Users\irfan\source\repos\Admin GUI\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\irfan\source\repos\Admin GUI\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\irfan\source\repos\Admin GUI\obj\Debug\Admin GUI.csproj.App.config
+C:\Users\irfan\source\repos\Admin GUI\obj\Debug\Admin GUI.csproj.CopyComplete
+C:\Users\irfan\source\repos\Admin GUI\obj\Debug\Admin_GUI.Form3.resources
+C:\Users\irfan\source\repos\Admin GUI\obj\Debug\Admin_GUI.Form4.resources
